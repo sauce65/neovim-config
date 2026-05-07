@@ -1,0 +1,5 @@
+*.swp
+
+# Nix build outputs
+result
+result-*
